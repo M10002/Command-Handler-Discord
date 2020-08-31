@@ -14,7 +14,7 @@
 
 ## Utilisation
 
-* Ouvrez le fichier **config.json**.
-* Remplacez le token par le token de votre bot, ainsi que le préfixe. 
+1) Ouvrez le fichier **config.json**.
+2) Remplacez le token par le token de votre bot, ainsi que le préfixe. 
 
 __**Vous pouvez dès lors commencez à utilisez cet handler, en suivant les exemples dans les dossiers `commands` & `events`.**__ 
