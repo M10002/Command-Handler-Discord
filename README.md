@@ -3,6 +3,7 @@
 > Code **Open Source** d'un command handler pour les bots Discord en Javascript. 
 
 **Si ce code vous a été utile, n'hésitez pas à y laisser une :star:**
+**Besoin d'aide ? Contactez moi sur Discord : Luztog#9999**
 
 ## Installation 
 
