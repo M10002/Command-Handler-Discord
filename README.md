@@ -10,7 +10,7 @@
 
 1) Installez le projet depuis cette page.
 2) Ouvrez un terminal depuis le projet et exécutez la commande `npm i`. 
-> Si un problème persiste, installez les un à un avec les commandes `npm i discord.js` & `npm i fs`. 
+> Si un problème persiste, installez les un à un avec les commandes `npm i discord.js`, `npm i chalk` & `npm i fs`. 
 
 ## Utilisation
 
