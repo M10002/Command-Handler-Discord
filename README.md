@@ -8,8 +8,8 @@
 
 **Veuillez tout d'abord vous assurez que node.js est installé sur votre machine. Dans le cas contraire [suivez ce lien](https://nodejs.org/fr/download/).** 
 
-* Installez le projet depuis cette page.
-* Ouvrez un terminal depuis le projet et exécutez la commande `npm i`. 
+1) Installez le projet depuis cette page.
+2) Ouvrez un terminal depuis le projet et exécutez la commande `npm i`. 
 > Si un problème persiste, installez les un à un avec les commandes `npm i discord.js` & `npm i fs`. 
 
 ## Utilisation
